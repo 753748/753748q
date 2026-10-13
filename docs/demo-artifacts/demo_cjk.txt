@@ -1,0 +1,12 @@
+﻿──── justify mode=full width=44 sample=cjk ─────
+富文本渲染库需要在终端中以单元格为单位进行排
+版，因为中文字符的显示宽度与拉丁字母不同。这
+个模块实现了最优断行算法，并遵循基本的中日韩
+禁则处理规则，避免标点符号出现在行首或行尾。
+─────────────────── metrics ────────────────────
+  metric                value  
+  lines                     4  
+  max width                44  
+  hyphenated lines          0  
+  overfull lines            0  
+  raggedness (stdev)     0.00  
