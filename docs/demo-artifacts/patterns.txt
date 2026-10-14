@@ -1,0 +1,7 @@
+﻿┌────────────────── hyphenation data ──────────────────┐
+│ bundled dictionary entries : 1006                    │
+│ derived pattern accuracy   : 44.2% on its own corpus │
+│ approximate mode enabled   : False                   │
+└──────────────────────────────────────────────────────┘
+patterns loaded: 0
+load a real TeX table with: Hyphenator(patterns=load_tex_patterns(path)[0])

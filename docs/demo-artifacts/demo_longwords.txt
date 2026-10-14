@@ -1,0 +1,11 @@
+﻿───────── justify mode=left width=60 sample=long-words ─────────
+The implementation documentation configuration parame-
+ter internationalization compatibility interoperability
+counterproductive indistinguishable.
+─────────────────────────── metrics ────────────────────────────
+  metric                value  
+  lines                     3  
+  max width                55  
+  hyphenated lines          1  
+  overfull lines            0  
+  raggedness (stdev)     0.50  

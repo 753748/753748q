@@ -1,0 +1,17 @@
+﻿────────────────── justify mode=full width=76 sample=english ───────────────────
+Rich   is   a   Python   library   for   rich  text  and  beautiful  format-
+ting   in   the   terminal.   The   justification   engine   added  by  this
+practice   implements   optimal   paragraph   line   breaking  with  hyphen-
+ation,    which    the    upstream   greedy   wrapper   cannot   do:   every
+break    point    is   chosen   so   that   the   total   badness   of   all
+the    lines   of   a   paragraph   is   minimised,   instead   of   filling
+each   line   as   far   as   it   will   go   and   moving  on.  Typography
+in    a   fixed   width   terminal   is   a   surprisingly   hard   problem,
+because a terminal cannot stretch the glyphs themselves.
+─────────────────────────────────── metrics ────────────────────────────────────
+  metric                value  
+  lines                     9  
+  max width                76  
+  hyphenated lines          2  
+  overfull lines            0  
+  raggedness (stdev)     0.00  

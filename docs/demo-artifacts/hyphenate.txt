@@ -1,0 +1,8 @@
+﻿                            hyphenation                             
+ word              offsets  split                  source           
+ hyphenation         2,6,7  hy- phen- a- tion      dictionary       
+ justification     3,5,7,9  jus- ti- fi- ca- tion  dictionary       
+ algorithm             2,4  al- go- rithm          dictionary       
+ documentation     3,4,7,9  doc- u- men- ta- tion  dictionary       
+ interoperability        -  interoperability       patterns/unknown 
+ configuration     3,6,7,9  con- fig- u- ra- tion  dictionary       
